@@ -14,7 +14,7 @@ class Moi:
         self.passions = ["Machine Learning", "Data Science", "Web Development"]
 
     def dire_bonjour(self):
-        print("Ravie de te rencontrer! 💕")
+        print("Ravie de te rencontrer!")
 ```
 
 - 🎀 Actuellement en train de bosser sur des projets de Data
@@ -65,7 +65,7 @@ class Moi:
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanyaatibouche&repo=tanyaatibouche&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&icon_color=FF69B4&text_color=8B008B)](https://github.com/tanyaatibouche/tanyaatibouche)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanyaatibouche&repo=tanyaatibouche&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&icon_color=FF69B4&text_color=8B008B)](https://github.com/OnyriaRNCP/Onyria)
 
 </div>
 
