@@ -54,7 +54,7 @@ class Me:
 
 <div align="center">
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanyatib12@gmail.com&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanyaatibouche&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B&layout=compact)
 
 </div>
 
