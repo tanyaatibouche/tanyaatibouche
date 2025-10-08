@@ -1,7 +1,7 @@
 # Hello, I'm Tanya ! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;%F0%9F%A7%A0;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Python+Developer+%F0%9F%90%8D;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## About me
@@ -57,8 +57,6 @@ class Me:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanyaatibouche&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B&layout=compact)
 
 </div>
-
-</details>
 
 ---
 
