@@ -11,6 +11,7 @@ class Me:
     def __init__(self):
         self.name = "Tanya Tibouche"
         self.role = "Data engineering student & Python Developer"
+        self.location = "🇫🇷 France"
         self.passions = ["Machine Learning", "Data Science", "Web Development"]
 
     def greeting(self):
@@ -49,6 +50,25 @@ class Me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaatibouche&layout=compact&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B" alt="Top Languages" />
 </div>
 
+## Daily Coding Stats
+
+<div align="center">
+</div>
+
+<details>
+<summary>More Detailed Stats</summary>
+<br>
+
+<div align="center">
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanyaatibouche_WAKATIME&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B&layout=compact)
+
+</div>
+
+</details>
+
+---
+
 ## Trophies
 
 <div align="center">
@@ -83,7 +103,7 @@ class Me:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tanyaatibouche&color=ff69b4&style=flat-square&label=Visiteurs+de+profil" alt="Profile Views" />
   
-  ### Thanks for passing by !
+  <sub> Thanks for passing by ! Made with 💖 and lots of ☕</sub>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=100&section=footer" />
 </div>
