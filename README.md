@@ -1,7 +1,7 @@
 # Hello, je suis Tanya ! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Développeuse+Python+%F0%9F%90%8D;Passionnée+de+Machine+Learning+%F0%9F%A7%A0;Toujours+en+train+d'apprendre+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Développeuse+Python+%F0%9F%90%8D;Passionnée+de+Machine+Learning+%F0%9F%A7%A0;Toujours+en+train+d'apprendre+%F0%9F%92%AB" alt="Typing SVG" />
 </div>
 
 ## À propos de moi
