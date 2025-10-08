@@ -50,14 +50,6 @@ class Me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaatibouche&layout=compact&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B" alt="Top Languages" />
 </div>
 
-## Daily Coding Stats
-
-<div align="center">
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanyaatibouche&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B&layout=compact)
-
-</div>
-
 ---
 
 ## Trophies
