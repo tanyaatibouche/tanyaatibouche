@@ -9,12 +9,12 @@
 ```python
 class Me:
     def __init__(self):
-        self.nom = "Tanya Tibouche"
+        self.name = "Tanya Tibouche"
         self.role = "Data engineering student & Python Developer"
         self.passions = ["Machine Learning", "Data Science", "Web Development"]
 
     def greeting(self):
-        print("Ravie de te rencontrer!")
+        print("Nice to meet you !")
 ```
 
 - 🎀 Working on Data/ML related projects
@@ -83,7 +83,7 @@ class Me:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tanyaatibouche&color=ff69b4&style=flat-square&label=Visiteurs+de+profil" alt="Profile Views" />
   
-  ### Thanks for passing by!
+  ### Thanks for passing by !
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24&height=100&section=footer" />
 </div>
