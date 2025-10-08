@@ -58,7 +58,7 @@ class Moi:
 ## Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyaatibouche&bg_color=FFB6C1&color=FF1493&line=FF69B4&point=8B008B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyaatibouche&bg_color=FFE4E1&color=FF1493&line=FF69B4&point=8B008B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ##  Projets Favoris
