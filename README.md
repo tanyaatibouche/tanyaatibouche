@@ -1,4 +1,4 @@
-# 💖 Salut, je suis Tanya ! 
+# Hello, je suis Tanya ! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Développeuse+Python+%F0%9F%90%8D;Passionnée+de+Machine+Learning+%F0%9F%A7%A0;Toujours+en+train+d'apprendre+%F0%9F%92%AB" alt="Typing SVG" />
@@ -58,7 +58,7 @@ class Moi:
 ## Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyaatibouche&bg_color=FFE4E1&color=FF1493&line=FF69B4&point=8B008B&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanyaatibouche&bg_color=FFB6C1&color=FF1493&line=FF69B4&point=8B008B&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ##  Projets Favoris
@@ -75,7 +75,6 @@ class Moi:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanya-tibouche)
 [![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyatib12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-portfolio.com)
 
 </div>
 
