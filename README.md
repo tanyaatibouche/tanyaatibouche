@@ -47,16 +47,10 @@ class Me:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaatibouche&layout=compact&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&text_color=8B008B" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanyaatibouche&theme=pink_dark" alt="Top Languages" />
 </div>
 
 ---
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanyaatibouche&theme=pink&no-frame=true&no-bg=true&column=7" alt="Trophées" />
-</div>
 
 ## Contributions
 
@@ -66,9 +60,17 @@ class Me:
 
 ##  Favorite Project
 
+## 💖 Favorite Project
+
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OnyriaRNCP&repo=Onyria&theme=material-palenight&hide_border=true&bg_color=FFE4E1&title_color=FF1493&icon_color=FF69B4&text_color=8B008B)](https://github.com/OnyriaRNCP/Onyria)
+
+### [Onyria](https://github.com/OnyriaRNCP/Onyria)
+
+**🌸 A data-driven project combining ML and web development**
+
+Technologies: Python • TensorFlow • Django • PostgreSQL
+
+[![Repository](https://img.shields.io/badge/View_Repository-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OnyriaRNCP/Onyria)
 
 </div>
 
